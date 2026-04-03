@@ -90,7 +90,8 @@ Developed a dashboard that transforms raw data into actionable affordability ins
 
 Add your screenshots here:
 
-![Main Dashboard](images/main-dashboard.png)
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/17f5d1f2-b841-4f77-baaf-f5eb8e091c1b" />
+
 ![Help Guide](images/help-guide.png)
 ![Info Panel](images/info-panel.png)
 
