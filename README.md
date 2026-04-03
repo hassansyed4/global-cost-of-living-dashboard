@@ -91,9 +91,11 @@ Developed a dashboard that transforms raw data into actionable affordability ins
 Add your screenshots here:
 
 <img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/17f5d1f2-b841-4f77-baaf-f5eb8e091c1b" />
+----
+<img width="1422" height="778" alt="image" src="https://github.com/user-attachments/assets/7f121d16-3de6-4e95-844b-99b672b83dd7" />
+----
+<img width="1307" height="546" alt="image" src="https://github.com/user-attachments/assets/55f0bf3a-9895-4de1-8e19-0b07fa65e067" />
 
-![Help Guide](images/help-guide.png)
-![Info Panel](images/info-panel.png)
 
 ## Files in this Repository
 
